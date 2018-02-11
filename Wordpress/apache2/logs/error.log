@@ -1,0 +1,5 @@
+[Mon Feb 12 01:17:22.778661 2018] [mpm_winnt:notice] [pid 3828:tid 788] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Feb 12 01:17:22.778661 2018] [mpm_winnt:notice] [pid 3828:tid 788] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Feb 12 01:17:22.778661 2018] [core:notice] [pid 3828:tid 788] AH00094: Command line: 'C:\\Users\\Juji\\Desktop\\Original\\WP\\Wordpress/apache2/bin/httpd_usbwv8.exe -d C:/Users/Juji/Desktop/Original/WP/Wordpress/apache2'
+[Mon Feb 12 01:17:22.786667 2018] [mpm_winnt:notice] [pid 3828:tid 788] AH00418: Parent: Created child process 6076
+[Mon Feb 12 01:17:23.541923 2018] [mpm_winnt:notice] [pid 6076:tid 564] AH00354: Child: Starting 64 worker threads.
